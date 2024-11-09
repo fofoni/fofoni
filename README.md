@@ -1,16 +1,13 @@
-## Hi there 👋
+I like contributing to open source whenever I can. A few highlights:
 
-<!--
-**fofoni/fofoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code contributions
+- https://github.com/3b1b/manim/pull/2180: Fix `NameError` when a pasted function attempts to access a variable in its outer scope
+- https://github.com/pyenv/pyenv/pull/2405: Use version sort in `pyenv versions`
 
-Here are some ideas to get you started:
+### Docs contributions
+- I'm active in the Python documentation translation community for Brazilian Portuguese.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Misc
+- [All issues](https://github.com/issues?q=is%3Aissue+author%3Afofoni+archived%3Afalse+is%3Aclosed)
+- [All PRs](https://github.com/pulls?q=is%3Apr+author%3Afofoni+archived%3Afalse+is%3Aclosed)
+- [Python Discourse account](https://discuss.python.org/u/fonini)
