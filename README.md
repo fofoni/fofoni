@@ -5,7 +5,7 @@ I like contributing to open source whenever I can. A few highlights:
 - https://github.com/pyenv/pyenv/pull/2405: Use version sort in `pyenv versions`
 
 ### Docs contributions
-- https://github.com/python/cpython/pull/126584: Docs: use "bounded TypeVar" to refer to TypeVars with an upper bound
+- https://github.com/python/cpython/pull/126584: Use "bounded TypeVar" to refer to TypeVars with an upper bound
 - I'm also active in the Python docs translation community for Brazilian Portuguese
 
 ### Misc
