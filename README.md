@@ -5,7 +5,8 @@ I like contributing to open source whenever I can. A few highlights:
 - https://github.com/pyenv/pyenv/pull/2405: Use version sort in `pyenv versions`
 
 ### Docs contributions
-- I'm active in the Python documentation translation community for Brazilian Portuguese.
+- https://github.com/python/cpython/pull/126584: Docs: use "bounded TypeVar" to refer to TypeVars with an upper bound
+- I'm also active in the Python docs translation community for Brazilian Portuguese
 
 ### Misc
 - [All issues](https://github.com/issues?q=is%3Aissue+author%3Afofoni+archived%3Afalse+is%3Aclosed)
